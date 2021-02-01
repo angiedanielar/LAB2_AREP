@@ -52,10 +52,10 @@ mvn exec:java -D "exec.mainClass"="edu.escuelaing.arep.app.App"
 And put this link in your browser: http://localhost:4567
 ```
 
-If you want to go to the website use this link: https://peaceful-chamber-69977.herokuapp.com/hello
+If you want to go to the website [click here](https://peaceful-chamber-69977.herokuapp.com/hello)
 
 
-IMPORTANT: To run locally you must change the url assigned to the post method since it is configured with Heroku.
+**IMPORTANT:** To run locally you must change the url assigned to the post method since it is configured with Heroku.
 
 
 You must use this link: - link local - instead the heroku url.
@@ -64,7 +64,7 @@ You must use this link: - link local - instead the heroku url.
 ![Imagen 1](resources/images/1.png)
 
 
-HOW TO USE THE APP: You must enter the numbers separated by comma in the box that says data to be calculate (this box have a example), and then pressing the button that says "Calculate", the previously numbers typed will be displayed with their mean and standard deviation .
+**HOW TO USE THE APP:** You must enter the numbers separated by comma in the box that says data to be calculate (this box have a example), and then pressing the button that says "Calculate", the previously numbers typed will be displayed with their mean and standard deviation .
 
 
 ![Imagen 2](resources/images/2.png)
