@@ -95,30 +95,32 @@ The Spark app it is responsible for determining the behavior of the different re
 
 In this laboratory we have test cases along with their respective mean and standard deviation. This information is in the two following tables that have the test data and the expected results.
 
-![Imagen 4](resources/images/4.png)
+
+![Imagen 4](resources/images/tables.png)
+
 
 The following are the results obtained:
 
 
-Local:
+### Local:
 
 
 ![Imagen 5](resources/images/post.png)
 
 
-Heroku back-end:
+### Heroku back-end:
 
 
 ![Imagen 6](resources/images/1.jpg)
 
 
-Heroku front-end:
+### Heroku front-end:
 
 
 ![Imagen 7](resources/images/3.jpg)
 
 
-Analyzing the results obtained we can see that correspond to the information stored in the previous tables and how there are equal to the expected we can conclude the program and the web page they behaves correctly when making the different calculations.
+Analyzing the results obtained we can see that correspond to the information stored in the previous tables and how there are equal to the expected we can conclude the back-end program and the front-end page they behaves correctly when making the different calculations.
 
 ## Built With
 
