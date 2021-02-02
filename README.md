@@ -55,16 +55,16 @@ And put this link in your browser: http://localhost:4567
 - If you want to go to the website [click here](https://front-lab2-arep.herokuapp.com/)
 
 
-- **IMPORTANT:** To run locally you must change the url assigned to the post method since it is configured with Heroku as follow:
+- **IMPORTANT:** To run locally you must change the url assigned to the post method since it is configured with Heroku in the function "Calculator" inside the folder src in [this link](https://github.com/angiedanielar/LAB2_AREP_FRONT) as follow:
 
 
-![Imagen 1](resources/images/1.png)
+![Imagen 1](resources/images/carbon.png)
 
 
 - **HOW TO USE THE APP:** You must enter the numbers separated by comma in the box that says "Data to be calculate" (in the text input you can see an example of use), and then pressing the button that says "Calculate" their mean and standard deviation will be displayed.
 
 
-![Imagen 2](resources/images/2.png)
+![Imagen 2](resources/images/4.png)
 
 
 4. Generating the documentation:
@@ -99,7 +99,24 @@ In this laboratory we have test cases along with their respective mean and stand
 
 The following are the results obtained:
 
-![Imagen 5](resources/images/5.png)
+
+Local:
+
+
+![Imagen 5](resources/images/post.png)
+
+
+Heroku back-end:
+
+
+![Imagen 6](resources/images/1.jpg)
+
+
+Heroku front-end:
+
+
+![Imagen 7](resources/images/3.jpg)
+
 
 Analyzing the results obtained we can see that correspond to the information stored in the previous tables and how there are equal to the expected we can conclude the program and the web page they behaves correctly when making the different calculations.
 
