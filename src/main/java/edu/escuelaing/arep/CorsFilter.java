@@ -10,6 +10,8 @@ import spark.Spark;
  * Really simple helper for enabling CORS in a spark application;
  */
 public final class CorsFilter {
+	
+	//taken from: https://gist.github.com/zikani03/7c82b34fbbc9a6187e9a
     
     private static final HashMap<String, String> corsHeaders = new HashMap<String, String>();
     
