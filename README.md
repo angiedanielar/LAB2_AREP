@@ -136,6 +136,8 @@ Analyzing the results obtained we can see that correspond to the information sto
 
 - [Heroku](https://www.heroku.com/platform) - Deploy platform.
 
+- [Latex](overleaf.com) - Text composition system.
+
 ## Inform
 
 - [View the Design Inform](https://github.com/angiedanielar/LAB2_AREP/blob/master/Inform.pdf)
